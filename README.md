@@ -31,4 +31,5 @@ Contributions to enhance or expand this project are welcome! If you'd like to co
 
 
 
-Ensure to replace the placeholder texts like `[mention specific dashboard framework/library used]`, `[Your contact information or LinkedIn profile link]`, `[License Name]`, and any other placeholders with appropriate information specific to your project. This README provides a comprehensive overview of your project, its structure, usage instructions, and how others can contribute or contact you for collaboration or job opportunities.
+Ensure to replace the placeholder texts like  `abdul786hay@gmail.com`, `https://www.linkedin.com/in/k-abdul-hayyu-106147167/`, with the appropriate links or information. This README provides an overview, guidance on accessing the project, and encourages collaboration or feedback.
+
